@@ -24,3 +24,6 @@ def number_guessing_game():
 
 
 number_guessing_game()
+
+
+print("Thank you for playing!")
